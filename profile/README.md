@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## SÜDKURIER DATA DAYS 
+Gemeinsam mit CorrelAid Konstanz veranstalten die Media Favoriten des Südkuriers am 10. und 11. Juni einen Hackathon. Statt auf ein “Hört ihr mich?” über Zoom, könnt ihr euch auf gestellte Räumlichkeiten und Verpflegung freuen. In der Max-Stromeyer-Straße 178 werden wir zusammen an spannenden Data Science Projekten arbeiten. Im Rahmen des Hackathons erhältst du unter anderem Zugriff auf Daten des Südkuriers und wirst dabei von den Expert:innen der Media Favorites praktische Tipps erhalten. Auch deswegen ist es kein Problem, wenn du selbst noch kein:e Expert:in bist - wir wollen entspannt zusammen programmieren und eine gute Zeit haben!
