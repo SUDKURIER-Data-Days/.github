@@ -14,9 +14,9 @@ Gemeinsam mit [CorrelAid Konstanz](https://correlaid.org/correlaidx/konstanz/) v
 <br>
 
 <p align="center">
-  <img alt="Light" src="./CorrelAid X_Konstanz-zentriert.png" width="45%">
+  <img alt="Light" src="CorrelAid X_Konstanz-zentriert.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./media_favoriten_logo-2.png" width="45%">
+  <img alt="Dark" src="media_favoriten_logo-2.png" width="45%">
 </p>
 
 
