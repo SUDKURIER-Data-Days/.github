@@ -9,6 +9,9 @@ Gemeinsam mit [CorrelAid Konstanz](https://correlaid.org/correlaidx/konstanz/) v
 - Link zur SÜDKURIER-API
 - [Kompetenzdatenbank](https://kompetenzdatenbank.onrender.com)
 
+<br>
+<br>
+<br>
 
 <p align="center">
   <img alt="Light" src="./CorrelAid X_Konstanz-zentriert.png" width="45%">
